@@ -1,0 +1,13 @@
+https://gist.github.com/nntrn/ee26cb2a0716de0947a0a4e9a157bc1c
+
+https://www.pro-football-reference.com/
+
+https://pypi.org/project/nfl-data-py/
+
+https://github.com/cooperdff/nfl_data_py
+
+https://github.com/public-apis/public-apis#sports--fitness
+
+https://medium.com/low-code-for-advanced-data-science/scraping-nfl-data-with-knime-part-1-2f05ac9b0940
+
+https://www.youtube.com/watch?v=2JDR6jv0fGA
